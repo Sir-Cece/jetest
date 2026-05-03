@@ -1,0 +1,7 @@
+! Gree allowlist
+@@||gree.com^
+@@||gree.com.cn^
+@@||greeplus.com^
+@@||ewpe-smart.com^
+@@||ewpe.com^
+@@||aliyuncs.com^
